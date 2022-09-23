@@ -1,0 +1,14 @@
+body {
+    background-color: #151530;
+}
+
+h2 {
+    color: aliceblue;
+    text-align: left;
+}
+
+table, td, tr, th {
+    color: #FFFFFF;
+    align-items: center;
+    border: 1px solid black;
+}
