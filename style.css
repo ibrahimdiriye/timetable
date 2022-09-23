@@ -12,3 +12,7 @@ table, td, tr, th {
     align-items: center;
     border: 1px solid black;
 }
+
+hr {
+    width: 100%;
+}
