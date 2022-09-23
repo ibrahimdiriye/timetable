@@ -10,7 +10,7 @@ h2 {
 table, td, tr, th {
     color: #FFFFFF;
     align-items: center;
-    bordercolor="#FFFFFF";
+    border-color="#FFFFFF";
 }
 
 hr {
