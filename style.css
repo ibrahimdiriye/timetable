@@ -1,5 +1,5 @@
 body {
-    background-color: #000000;
+    background-color: #2A2A4A;
 }
 
 h2 {
@@ -10,15 +10,8 @@ h2 {
 table, td, tr, th {
     color: #FFFFFF;
     align-items: center;
-    border: 1px solid black;
-    padding: 5px;
 }
 
 hr {
     width: 100%;
-}
-
-table {
-    border-collapse: separate;
-    border-spacing: 0 5px;
 }
